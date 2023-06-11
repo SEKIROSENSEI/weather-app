@@ -1,7 +1,7 @@
 # Weather-Application
 A Weather Web Application that utilizes the [OpenWeatherMap's API](https://openweathermap.org/) to return current weather information for a given location.
 
-*
+***
 Simple web application written with
   1. Javascript
   2. HTML5
@@ -15,4 +15,4 @@ Simple web application written with
   3. Humidity  (in %)
   4. Wind-Speed  (in km/h)
 
->This app is live hosted here: [Weather-App](https://chhotu05.github.io/weather-app/).
+>This app is live hosted here: [Weather-App](https://sekirosensei.github.io/weather/).
